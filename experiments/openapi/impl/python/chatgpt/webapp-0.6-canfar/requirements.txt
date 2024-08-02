@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+authlib
+python-jose
+strenum
+xmltodict
+requests
